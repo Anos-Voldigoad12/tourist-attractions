@@ -1,0 +1,44 @@
+body{
+	background-image: url("./Background/mf.png");
+	color: white;
+}
+img{
+	float: right;
+	height: 160px;
+	width: 300px;
+	margin-bottom: 5px;
+	margin-left: 7px;
+}
+div{
+	text-align: left;
+	margin-left: 15%;
+	margin-right: 5%;
+}
+a{
+	color: white;
+}
+.active{
+	background-color: darkblue;
+}
+.menu{
+	float: left;
+	list-style-type: none;
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px;
+	width: 10%;
+	height: 100%;
+	position: fixed;
+	overflow: auto;
+	border: 1px solid white;
+}
+li a{
+	display: block;
+	padding: 20px;
+	text-align: center;
+	
+	text-decoration: none;
+}
+li:last-child{
+	border-bottom: none;
+}

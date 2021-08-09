@@ -1,0 +1,36 @@
+<div>
+			<h1 align="center"></h1>
+			<p></p>
+			<p></p>
+			<p></p>
+			<p></p>
+
+			<h3>Some of the important tourist attractions in  are:</h3>
+			
+			<ul>
+				<li><h4></h4>
+				<img src=".//" alt="">
+				<p></p>
+				<p></p>
+				
+				<li><h4></h4>
+				<img src=".//" alt="">
+				<p></p>
+				<p></p>
+				
+				<li><h4></h4>
+				<img src=".//" alt="">
+				<p></p>
+				<p></p>
+				
+				<li><h4></h4>
+				<img src=".//" alt="">
+				<p></p>
+				<p></p>
+				
+				<li><h4></h4>
+				<img src=".//" alt="">
+				<p></p>
+				<p></p>				
+			</ul>
+		</div>
